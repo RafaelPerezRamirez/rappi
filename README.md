@@ -1,5 +1,5 @@
 # Siponsis
-Desarrollo de una web app que consume de manera local un json que se monta sobre un servidor js.
+Desarrollo de una web app que consume de manera local un json.
 Todo el desarrollo se hizo a mano.
 
 # Tecnologías
